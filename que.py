@@ -1,1 +1,0 @@
-Str = input("enter the sentences")
